@@ -29,9 +29,9 @@ Plan Pro ── productId ──────────────────
 
 ```bash
 # pour tous tes projets
-git clone https://github.com/<owner>/kivoo-saas-billing ~/.claude/skills/kivoo-saas-billing
+git clone https://github.com/boris913/kivoo-saas-billing ~/.claude/skills/kivoo-saas-billing
 # ou pour un seul projet
-git clone https://github.com/<owner>/kivoo-saas-billing .claude/skills/kivoo-saas-billing
+git clone https://github.com/boris913/kivoo-saas-billing .claude/skills/kivoo-saas-billing
 ```
 
 Puis, dans Claude Code : « Branche les abonnements Kivoo sur mon SaaS, avec un plan Pro à 30 jours. »
